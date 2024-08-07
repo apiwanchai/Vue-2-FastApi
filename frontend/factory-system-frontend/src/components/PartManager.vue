@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-toolbar flat>
+    <v-toolbar flat >
       <v-toolbar-title>Parts Changeover Matrix</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn class="mr-2" color="primary" @click="addRow">Add Part</v-btn>
